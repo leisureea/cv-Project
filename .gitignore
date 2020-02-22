@@ -1,4 +1,4 @@
-!.gitignore
-!.cpp
-!.py
 /*
+!.gitignore
+!*.cpp
+!*.py
