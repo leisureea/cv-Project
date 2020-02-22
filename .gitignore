@@ -1,4 +1,4 @@
-/*
-!.gitignore
-!/**.cpp
-!*/*.txt
+*
+!*.java
+!*.js
+!*.cpp
