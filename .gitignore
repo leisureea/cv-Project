@@ -3,4 +3,5 @@
 !*.h
 !*.hdev
 !*.py
-!*.txt
+!*.md
+!*.gitignore
